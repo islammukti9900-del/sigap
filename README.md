@@ -35,7 +35,7 @@ Dibangun untuk **Kartika Cyber Hackathon 2026** (PUSSIBERAD TNI AD × CODEPOLITA
 - PHP 8.3 · Laravel 13 · Laravel Sanctum
 - Blade + Tailwind CSS (CDN) · Chart.js · Vanilla JS
 - SQLite (pengembangan/tes) · kompatibel MySQL/MariaDB untuk produksi
-- PHPUnit (65 tes fitur, 240 assertions — semua lulus)
+- PHPUnit (101 tes fitur, 497 assertions — semua lulus)
 
 ## Instalasi
 
